@@ -1,6 +1,9 @@
 # CheatSheet Git
 
 ## Historique
+- Créateur de git : Linus Torvalds (créateur du noyau du système d'exploitation Linux)
+- Pourquoi la création de git? Besoin => pas d'outils équivalent
+- Prix de la licence git => Gratuit, il est Open Source
 
 ## Gestionnaire de version de code
 
