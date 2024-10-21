@@ -9,6 +9,9 @@
 Différence entre SVN et GIT => GIT n'st pas forcément adpaté pour la gestion de très gros fichiers
 
 ## Pourquoi apprendre Git ?
+- Logiciel est de très le plus utilisé  
+- Open Source
+- Permet de travailler seul et/ou en groupe
 
 ## Linux = macOS != Windows
 
