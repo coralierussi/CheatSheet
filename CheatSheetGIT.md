@@ -34,6 +34,11 @@ DEF:  famille de systèmes d'exploitation multitâche et multi-utilisateur
 - Gestionnaire de paquets
 
 ## Origin
+GitHub, GitLab, GitServer (NAS / Rasberry) => logiciel
+Origin: ressemble à OneDrive
+Fonctionnalités => Server
+2FA => 2 Facteurs d'authentification
+Clé de sécurité (clé SSH) ⇒ permet une authentification entre 2 appareils
 
 ## Ligne de commande
 
