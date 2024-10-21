@@ -14,6 +14,17 @@ Différence entre SVN et GIT => GIT n'st pas forcément adpaté pour la gestion 
 - Permet de travailler seul et/ou en groupe
 
 ## Linux = macOS != Windows
+DEF Linux: Une commande Linux est un programme ou un utilitaire qui s'exécute sur la ligne de commande. Une ligne de commande est une interface qui accepte des lignes de texte et les transforme en instructions pour votre ordinateur.
+Toute interface utilisateur graphique n'est qu'une abstraction de programmes en ligne de commande. Par exemple, lorsque vous fermez une fenêtre en cliquant sur le "X", il y a une commande qui s'exécute derrière cette action.
+Un drapeau (flag) est un moyen de passer des options à la commande que vous exécutez. La plupart des commandes Linux ont une page d'aide que nous pouvons appeler avec le drapeau -h. La plupart du temps, les drapeaux sont optionnels.
+Un argument ou paramètre est l'entrée que nous donnons à une commande pour qu'elle puisse s'exécuter correctement. Dans la plupart des cas, l'argument est un chemin de fichier, mais il peut être n'importe quoi que vous tapez dans le terminal.
+Vous pouvez invoquer des drapeaux en utilisant des traits d'union (-) et des doubles traits d'union (--), tandis que l'exécution des arguments dépend de l'ordre dans lequel vous les passez à la fonction.
+
+=> Linux et Windows peuvent fonctionner sur n'importe quel machine != macOS fonctionne uniquement sur le même matériel
+
+Linux et Windows sont écrit en ARM
+
+Powershell => ligne de commande windows
 
 ### Pourquoi apprendre à utiliser UNIX
 
