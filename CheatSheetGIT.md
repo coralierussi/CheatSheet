@@ -26,7 +26,12 @@ Linux et Windows sont écrit en ARM
 
 Powershell => ligne de commande windows
 
-### Pourquoi apprendre à utiliser UNIX
+### Pourquoi apprendre à utiliser UNIX ?
+DEF:  famille de systèmes d'exploitation multitâche et multi-utilisateur
+- Mise en ligne d'un site ou d'une application web (server FTP => FileZilla)
+- Outils de dev disponible
+- Ligne de commande "propres"
+- Gestionnaire de paquets
 
 ## Origin
 
