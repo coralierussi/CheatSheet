@@ -43,6 +43,7 @@ Clé de sécurité (clé SSH) ⇒ permet une authentification entre 2 appareils
 ## Ligne de commande
 
 ``` bash 
+
 /* Liste */
 
 apt-get => installer ou supprimer une application
@@ -190,3 +191,23 @@ ctrl + ù/% => ouverture du terminal
 ```
 
 ## Sources
+
+Vidéo créateur GIT =>
+https://www.youtube.com/watch?v=LDy6Rv0kU1Q
+
+Lien d'amélioration nom commit => 
+https://www.conventionalcommits.org/en/v1.0.0/ 
+
+https://gitmoji.dev/
+
+Command Linux =>
+https://kinsta.com/blog/linux-commands/
+
+Génération d’une nouvelle clé SSH et ajout de celle-ci à ssh-agent =>
+https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
+
+Ajout d’une nouvelle clé SSH à votre compte GitHub =>
+https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui
+
+Developer roadmaps =>
+https://roadmap.sh/
