@@ -1,4 +1,4 @@
-# CheatSheet Git
+# CheatSheet
 
 ## Historique
 - Créateur de git : Linus Torvalds (créateur du noyau du système d'exploitation Linux)
