@@ -6,6 +6,7 @@
 - Prix de la licence git => Gratuit, il est Open Source
 
 ## Gestionnaire de version de code
+Différence entre SVN et GIT => GIT n'st pas forcément adpaté pour la gestion de très gros fichiers
 
 ## Pourquoi apprendre Git ?
 
