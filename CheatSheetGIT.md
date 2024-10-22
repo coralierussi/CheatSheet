@@ -124,7 +124,7 @@ git push -u origin main => command pour dire qu’on push toujours sur origin ma
 git reset => annuler un commit / permet de revenir en arrière en supprimant tous les commit après le commit visé
 
 /*Code*/
-git reset (+nom du commit select)
+git reset (+id du commit select)
 git push -f
 (git stash)
 
