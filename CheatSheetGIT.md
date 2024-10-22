@@ -41,7 +41,6 @@ Fonctionnalités => Server
 Clé de sécurité (clé SSH) ⇒ permet une authentification entre 2 appareils
 
 ## Ligne de commande
-
 ``` bash 
 
 /* Liste */
@@ -192,7 +191,7 @@ ctrl + ù/% => ouverture du terminal
 
 ## Sources
 
-Vidéo créateur GIT =>
+Vidéo créateur GIT (cocadmin) =>
 https://www.youtube.com/watch?v=LDy6Rv0kU1Q
 
 Lien d'amélioration nom commit => 
